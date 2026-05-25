@@ -19,13 +19,16 @@
 
 ## 📸 Dashboard Preview
  
-Sales Dashboard 2026
-
+Uber Dashboard 2026
+<p align="center">
 <img width="707" height="740" alt="image" src="https://github.com/Shobhith01/Uber-Ride-Analytics-Dashboard-Power-BI/blob/main/Uber%20Dashboard.png/Homepage.png" />
- 
- 
+<img width="707" height="740" alt="image" src="https://github.com/Shobhith01/Uber-Ride-Analytics-Dashboard-Power-BI/blob/main/Uber%20Dashboard.png/Overview%202.png" />
+<img width="707" height="740" alt="image" src="https://github.com/Shobhith01/Uber-Ride-Analytics-Dashboard-Power-BI/blob/main/Uber%20Dashboard.png/Overview%203.png" /> 
+</p> 
+
 ---
-## 🗂️ Project Structure
+
+### 🗂️ Project Structure
 
 ```
 Uber-dashboard-powerbi/
