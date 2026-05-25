@@ -16,6 +16,15 @@
 </p> 
 ---
 
+
+## 📸 Dashboard Preview
+ 
+Sales Dashboard 2026
+
+<img width="707" height="740" alt="image" src="https://github.com/Shobhith01/Uber-Ride-Analytics-Dashboard-Power-BI/blob/main/Uber%20Dashboard.png/Homepage.png" />
+ 
+ 
+---
 ## 🗂️ Project Structure
 
 ```
